@@ -69,15 +69,7 @@
         android:textColor="#ccc"
         android:textSize="16sp" />
 
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="19dp"
-        android:text="Sign Up"
-        android:textColor="#ccc"
-        android:backgroundTint="#ababab"
-        android:textSize="16sp"
-        />
+
+
 
 </LinearLayout>
